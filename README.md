@@ -5,4 +5,4 @@ Data science activities for mechanical engineering undergraduates
     - [Activity 1 (Open in Google Colab)](https://colab.research.google.com/github/ebilionis/core-me-data-science-activities-public/blob/master/me274/activity_01.ipynb)
 
 + *ME 308*
-    - [Fluids Activity 1 (Open in Google Colab)](https://colab.research.google.com/github/ebilionis/core-me-data-science-activities-public/blob/master/me308/Fluids_01_sln.ipynb)
+    - [Fluids Activity 1 (Open in Google Colab)](https://colab.research.google.com/github/ebilionis/core-me-data-science-activities-public/blob/master/me308/Fluids_01.ipynb)
