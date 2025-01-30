@@ -2,7 +2,7 @@
 Data science activities for mechanical engineering undergraduates
 
 + *ME 270*
-    - [Activity 2 (Open in Google Colab)](https://colab.research.google.com/github/ebilionis/core-me-data-science-activities-public/blob/master/me274/Statics_02.ipynb)
+    - [Activity 2 (Open in Google Colab)](https://colab.research.google.com/github/ebilionis/core-me-data-science-activities-public/blob/master/me270/Statics_02.ipynb)
 
 
 + *ME 274*
