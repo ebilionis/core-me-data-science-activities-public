@@ -4,6 +4,8 @@ Data science activities for mechanical engineering undergraduates
 
 + *ME 200*
 
+    - [Activity 1 Student Version (Open in Google Colab)](https://colab.research.google.com/github/ebilionis/core-me-data-science-activities-public/blob/master/me200/Thermo_01.ipynb)
+
     - [Activity 1 Solution (Open in Google Colab)](https://colab.research.google.com/github/ebilionis/core-me-data-science-activities-public/blob/master/me200/Thermo_01_sol.ipynb)
 
 + *ME 270*
