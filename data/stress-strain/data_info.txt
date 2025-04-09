@@ -1,0 +1,21 @@
+Files:
+
+Ei_A - area
+Ei_e_yy - strain
+Ei_Force - Applied force (quasi-static)
+
+
+Directions:
+
+E1 - printing direction
+E2 - transverse direction
+E3 - stacking direction
+
+
+Units:
+
+A [mm^2]
+F [N]
+F/A [MPa]
+
+NOTE: strain less than 0.005 for linear regime
